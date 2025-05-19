@@ -34,3 +34,4 @@ break;
 case 3: res = num1 * num2;
 cout<<"Su resultado es "<<res;
 }
+}
